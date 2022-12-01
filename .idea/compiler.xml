@@ -11,6 +11,7 @@
         <module name="spring-18-REST-SchoolLab" />
         <module name="spring-17-REST-ConsumingApis" />
         <module name="Spring-15-REST" />
+        <module name="Spring-19-REST-OpenAPI3" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -18,6 +19,7 @@
       <module name="Spring-16-REST-Jackson" target="11" />
       <module name="spring-17-REST-ConsumingApis" target="11" />
       <module name="spring-18-REST-SchoolLab" target="11" />
+      <module name="Spring-19-REST-OpenAPI3" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

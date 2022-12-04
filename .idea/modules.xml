@@ -7,6 +7,8 @@
       <module fileurl="file://$PROJECT_DIR$/spring-19-REST-OpenAPI3/Spring-19-REST-OpenAPI3.iml" filepath="$PROJECT_DIR$/spring-19-REST-OpenAPI3/Spring-19-REST-OpenAPI3.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-17-REST-ConsumingApis/spring-17-REST-ConsumingApis.iml" filepath="$PROJECT_DIR$/spring-17-REST-ConsumingApis/spring-17-REST-ConsumingApis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-18-REST-SchoolLab/spring-18-REST-SchoolLab.iml" filepath="$PROJECT_DIR$/spring-18-REST-SchoolLab/spring-18-REST-SchoolLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-20-REST-Security-Keycloak-LicenseApp/spring-20-REST-Security-Keycloak-LicenseApp.iml" filepath="$PROJECT_DIR$/spring-20-REST-Security-Keycloak-LicenseApp/spring-20-REST-Security-Keycloak-LicenseApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-20-REST-Security-Keycloak-OrganizationsApp/spring-20-REST-Security-Keycloak-OrganizationsApp.iml" filepath="$PROJECT_DIR$/spring-20-REST-Security-Keycloak-OrganizationsApp/spring-20-REST-Security-Keycloak-OrganizationsApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-training-master 4.iml" filepath="$PROJECT_DIR$/.idea/spring-training-master 4.iml" />
     </modules>
   </component>
